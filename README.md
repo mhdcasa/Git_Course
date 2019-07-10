@@ -1,2 +1,2 @@
 # Git_Course
-For web zeroschool
+For web zero school
